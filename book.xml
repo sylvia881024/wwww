@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+ <heading>文觀書房</heading>
+ <book>
+	<title>薩哈拉之旅</title>
+	<author>張馨元</author>
+	<publisher>聯合文觀</publisher>
+	<price>$300</price>
+</book>
+<book>
+	<title>極地之旅</title>
+	<author>張馨元</author>
+	<publisher>聯合文觀</publisher>
+	<price>$300</price>
+</book>
+</books>
